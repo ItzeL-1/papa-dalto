@@ -1,4 +1,4 @@
-# papa-dalto
+# repositorio de Itzel
 Primer repo creado en GitHub
 
 ## descripcion
